@@ -1,0 +1,14 @@
+        <style>
+            html {
+                font-size: 22px;
+            }
+
+            body {
+                background-color: black;
+                color:rgba(222, 239, 199, 0.927);
+            }
+            table, tr, th, td, caption {
+                border:1px solid #eee;
+                font-family: 'Courier New', Courier, monospace;border-collapse: collapse;
+            }
+        </style>
